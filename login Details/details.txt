@@ -1,0 +1,13 @@
+
+Admin Details:--
+
+http://localhost/carrental/admin
+
+Username:- admin
+Password: password
+
+User Details:--
+
+http://localhost/carrental
+useremail:- shivam@gmail.com
+password:- 12345
